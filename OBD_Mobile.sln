@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{B900F1C2-3D47-4FEC-85B3-04AAF18C3634}") = "OBD_Mobile", "OBD_Mobile\OBD_Mobile.vddproj", "{79103B6B-0645-48E1-9083-0AAF8EE0D3DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79103B6B-0645-48E1-9083-0AAF8EE0D3DC}.Debug|Default.ActiveCfg = Debug
+		{79103B6B-0645-48E1-9083-0AAF8EE0D3DC}.Debug|Default.Build.0 = Debug
+		{79103B6B-0645-48E1-9083-0AAF8EE0D3DC}.Release|Default.ActiveCfg = Release
+		{79103B6B-0645-48E1-9083-0AAF8EE0D3DC}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
